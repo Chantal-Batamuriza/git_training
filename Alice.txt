@@ -1,2 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+
 I'm making changes to alice.txt on change_alice
+
+Enjoy the weekend
+wowwww. well done
+
